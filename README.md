@@ -3,5 +3,5 @@
 # 평가용 repositories
 1. [summary.md](summary.md)  
 
-2. [Big-Integer-Calculator](https://github.com/kunwoo3121/Matrix-Multiplication-Sequence)
+2. [행렬 곱셈 순서](https://github.com/kunwoo3121/Matrix-Multiplication-Sequence)
 
