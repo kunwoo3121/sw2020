@@ -6,3 +6,6 @@
 
 # Chapter 3
 [chapter 3](https://github.com/kunwoo3121/ComputerArchitecture/blob/main/chapter3.md)
+
+# Chapter 4
+[chapter 4](https://github.com/kunwoo3121/ComputerArchitecture/blob/main/chapter4.md)
