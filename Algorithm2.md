@@ -1,14 +1,14 @@
 # 모든 경우 탐색
-1.  [FESTIVAL](https://github.com/kunwoo3121/FESTIVAL)
-2.  [PICNIC](https://github.com/kunwoo3121/PICNIC)
-3.  [BOARDCOVER](https://github.com/kunwoo3121/BOARDCOVER)
-4.  [CLOCKSYNC](https://github.com/kunwoo3121/CLOCKSYNC)
+[FESTIVAL](https://github.com/kunwoo3121/FESTIVAL)
+[PICNIC](https://github.com/kunwoo3121/PICNIC)
+[BOARDCOVER](https://github.com/kunwoo3121/BOARDCOVER)
+[CLOCKSYNC](https://github.com/kunwoo3121/CLOCKSYNC)
 
-5.  [QUADTREE](https://github.com/kunwoo3121/QUADTREE)
+# 분할 정복
+[QUADTREE](https://github.com/kunwoo3121/QUADTREE)
+[FENCE](https://github.com/kunwoo3121/FENCE)
 
-6. [FENCE](https://github.com/kunwoo3121/FENCE)
-
-7.  [FANMEETING](https://github.com/kunwoo3121/FANMEETING)
+[FANMEETING](https://github.com/kunwoo3121/FANMEETING)
 
 8.  [WILDCARD](https://github.com/kunwoo3121/WILDCARD)
 
