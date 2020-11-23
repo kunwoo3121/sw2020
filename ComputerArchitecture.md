@@ -9,3 +9,6 @@
 
 # Chapter 4
 [chapter 4](https://github.com/kunwoo3121/ComputerArchitecture/blob/main/chapter4.md)
+
+# 과제
+[RISC-V Calculator](https://github.com/kunwoo3121/ComputerArchitecture/blob/main/Calculator.md)
