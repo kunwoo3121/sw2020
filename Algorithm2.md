@@ -1,8 +1,8 @@
 # 모든 경우 탐색
-[FESTIVAL](https://github.com/kunwoo3121/FESTIVAL)  
-[PICNIC](https://github.com/kunwoo3121/PICNIC)  
-[BOARDCOVER](https://github.com/kunwoo3121/BOARDCOVER)  
-[CLOCKSYNC](https://github.com/kunwoo3121/CLOCKSYNC)  
+* [FESTIVAL](https://github.com/kunwoo3121/FESTIVAL)  
+* [PICNIC](https://github.com/kunwoo3121/PICNIC)  
+* [BOARDCOVER](https://github.com/kunwoo3121/BOARDCOVER)  
+* [CLOCKSYNC](https://github.com/kunwoo3121/CLOCKSYNC)  
 
 # 분할 정복
 [QUADTREE](https://github.com/kunwoo3121/QUADTREE)
