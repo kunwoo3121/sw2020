@@ -8,7 +8,7 @@
 [chapter 3](https://github.com/kunwoo3121/Algorithm1_chap3)
 
 # Chapter 4. Greedy Approach
-[chapter 4](https://github.com/kunwoo3121/Algorithm1_ch4)
+[chapter 4](https://github.com/kunwoo3121/Algorithm1/blob/main/Algorithm1_ch4.md)
 
 # Chapter 6. Branch_and_bound
 * 최적의 해를 기준으로 이 해를 절대 넘을 수 없는 선택지는 버리는 방법
