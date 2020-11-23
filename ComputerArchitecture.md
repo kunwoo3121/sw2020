@@ -1,2 +1,5 @@
 # Chapter 1
 [chapter 1](https://github.com/kunwoo3121/ComputerArchitecture/blob/main/chapter1.md) 
+
+# Chapter 2
+[chapter 2](https://github.com/kunwoo3121/ComputerArchitecture/blob/main/chapter2.md)
