@@ -1,11 +1,11 @@
 # Chapter 1. 알고리즘 설계 및 분석
-[chapter 1](https://github.com/kunwoo3121/Algorithm1_chap1)
+[chapter 1](https://github.com/kunwoo3121/Algorithm1/blob/main/Algorithm1_chap1.md)
 
 # Chapter 2. Divide and Conquer
-[chapter 2](https://github.com/kunwoo3121/Algorithm1_chap2)
+[chapter 2](https://github.com/kunwoo3121/Algorithm1/blob/main/Algorithm1_chap2.md)
 
 # Chapter 3. Dynamic Programming
-[chapter 3](https://github.com/kunwoo3121/Algorithm1_chap3)
+[chapter 3](https://github.com/kunwoo3121/Algorithm1/blob/main/Algorithm1_chap3.md)
 
 # Chapter 4. Greedy Approach
 [chapter 4](https://github.com/kunwoo3121/Algorithm1/blob/main/Algorithm1_ch4.md)
