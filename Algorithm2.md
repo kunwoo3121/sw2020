@@ -8,7 +8,6 @@
 * [QUADTREE](https://github.com/kunwoo3121/QUADTREE)
 * [FENCE](https://github.com/kunwoo3121/FENCE)
 
-[FANMEETING](https://github.com/kunwoo3121/FANMEETING)
 # 동적 계획법
 * [WILDCARD](https://github.com/kunwoo3121/WILDCARD)
 * [TRIANGLEPATH](https://github.com/kunwoo3121/TRIANGLEPATH)
@@ -21,20 +20,26 @@
 * [KLIS](https://github.com/kunwoo3121/KLIS)
 * [DRAGON](https://github.com/kunwoo3121/DRAGON)
 
-18. [STRJOIN](https://github.com/kunwoo3121/STRJOIN)
+# 탐욕법
+* [STRJOIN](https://github.com/kunwoo3121/STRJOIN)
+* [LUNCHBOX](https://github.com/kunwoo3121/LUNCHBOX)
 
-19. [LUNCHBOX](https://github.com/kunwoo3121/LUNCHBOX)
+# 조합 탐색
+* [BOARDCOVER2](https://github.com/kunwoo3121/BOARDCOVER2)
 
-20. [BOARDCOVER2](https://github.com/kunwoo3121/BOARDCOVER2)
+# 최적화 문제 결정 문제로 바꿔 풀기
+* [ARCTIC](https://github.com/kunwoo3121/ARCTIC)
 
-21. [ARCTIC](https://github.com/kunwoo3121/ARCTIC)
+# 정수론
+* [PASS486](https://github.com/kunwoo3121/PASS486)
+* [MODPOWER](https://github.com/kunwoo3121/MODPOWER)
 
-22. [PASS486](https://github.com/kunwoo3121/PASS486)
+# 선형 자료 구조
+* [JOSEPHUS](https://github.com/kunwoo3121/JOSEPHUS)
 
-23. [MODPOWER](https://github.com/kunwoo3121/MODPOWER)
+# 큐와 스택
+* [ITES](https://github.com/kunwoo3121/ITES)
 
-24. [JOSEPHUS](https://github.com/kunwoo3121/JOSEPHUS)
-
-25. [ITES](https://github.com/kunwoo3121/ITES)
-
-26. [GRADUATION](https://github.com/kunwoo3121/GRADUATION)
+# 비트 연산
+* [GRADUATION](https://github.com/kunwoo3121/GRADUATION)
+* [FANMEETING](https://github.com/kunwoo3121/FANMEETING)
