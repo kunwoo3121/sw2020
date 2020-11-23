@@ -3,7 +3,8 @@
 2020년 sw 연계부전공 평가를 받기 위한 repository 입니다.
 
 # 교과목형
-* [COMP319001 알고리즘1 / 2020년 1학기 / 유관우](Algorithm1.md)  
+* [COMP319001 알고리즘1 / 2020년 1학기 / 유관우](Algorithm1.md)
+* [COMP312002 운영체제  / 2020년 1학기 / 조정훈](OS.md)
 * [COMP320003 알고리즘2 / 2020년 2학기 / 배준현](Algorithm2.md)
 * [EECS463001 임베디드시스템프로그래밍 / 2020년 2학기 / 조정훈](EmbeddedProgramming.md)  
 
