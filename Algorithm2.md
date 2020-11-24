@@ -36,6 +36,7 @@
 
 # 선형 자료 구조
 * [JOSEPHUS](https://github.com/kunwoo3121/JOSEPHUS)
+* [INSERTION](https://github.com/kunwoo3121/INSERTION)
 
 # 큐와 스택
 * [ITES](https://github.com/kunwoo3121/ITES)
@@ -43,3 +44,10 @@
 # 비트 연산
 * [GRADUATION](https://github.com/kunwoo3121/GRADUATION)
 * [FANMEETING](https://github.com/kunwoo3121/FANMEETING)
+
+# 문자열
+* [PALINDROMIZE](https://github.com/kunwoo3121/PALINDROMIZE)
+
+# 트리
+* [FORTRESS](https://github.com/kunwoo3121/FORTRESS)
+* [RUNNINGMEDIAN](https://github.com/kunwoo3121/RUNNINGMEDIAN)
