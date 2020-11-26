@@ -13,7 +13,7 @@
 # Chapter 6. Branch_and_bound
 * 최적의 해를 기준으로 이 해를 절대 넘을 수 없는 선택지는 버리는 방법
 
-# 과제 (동적 계획법)
-* [행렬 곱셈 순서](https://github.com/kunwoo3121/Matrix-Multiplication-Sequence)
-* [미로 만들기](https://github.com/kunwoo3121/Make-a-Maze)
-* [가로등 끄기](https://github.com/kunwoo3121/Turn-Off-The-Streetlights)
+# 과제
+* [행렬 곱셈 순서](https://github.com/kunwoo3121/Matrix-Multiplication-Sequence) - 동적 계획법
+* [미로 만들기](https://github.com/kunwoo3121/Make-a-Maze) - 동적 계획법
+* [가로등 끄기](https://github.com/kunwoo3121/Turn-Off-The-Streetlights) - BFS
